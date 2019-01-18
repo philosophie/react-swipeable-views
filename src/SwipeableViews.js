@@ -715,7 +715,7 @@ class SwipeableViews extends React.Component {
       springConfig,
       style,
       threshold,
-      transformScale
+      transformScale,
       ...other
     } = this.props;
 
